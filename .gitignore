@@ -5,3 +5,6 @@ aggregate_hdf5_with_nucleus.py
 image_generator.py
 segment_image.py
 segment_slide_rbc.py
+.ipynb_checkpoints
+train
+training_fan_transformed
