@@ -6,5 +6,7 @@ image_generator.py
 segment_image.py
 segment_slide_rbc.py
 .ipynb_checkpoints
+.gitignore
 train
 training_fan_transformed
+rbc_segmentation-w-fan.ipynb
